@@ -7,5 +7,5 @@ My repository where I will be going through the FastAi track for learning Deep L
 * Computational Linear Algebra - https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 * Code-first intro to Natural language Procesing - https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
 
-** All the credits for the above videos and course material goes to the FastAi organization. They have done a wonderful job in democratising these technologies and making them availaible to the masses with almost any entry barriers.**  
+**All the credits for the above videos and course material goes to the FastAi organization. They have done a wonderful job in democratising these technologies and making them availaible to the masses with almost any entry barriers**  
 # FastAi website - https://www.fast.ai/  
